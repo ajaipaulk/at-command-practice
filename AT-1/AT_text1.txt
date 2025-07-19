@@ -1,0 +1,14 @@
+Microsoft Windows [Version 10.0.22631.5472]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\LENOVO>cd C:\Users\LENOVO\Downloads\AT_v1.0.2
+
+C:\Users\LENOVO\Downloads\AT_v1.0.2>AT
+AT Emulator
+Ctrl+C to exit
+AT
+
+OK
+AT
+
+OK
